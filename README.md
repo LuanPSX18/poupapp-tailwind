@@ -2,6 +2,8 @@
 
 Projeto desenvolvido durante o curso de **React com Tailwind CSS e CSS Modules** da Alura. Esta versão utiliza **Tailwind CSS** para estilização, com foco em comparar na prática as diferenças em relação à abordagem com CSS Modules.
 
+![Preview do Poupapp](./public/preview.png)
+
 ## Tecnologias utilizadas
 
 - [React](https://react.dev/)
